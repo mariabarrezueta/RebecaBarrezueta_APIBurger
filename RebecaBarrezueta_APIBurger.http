@@ -1,0 +1,6 @@
+@RebecaBarrezueta_APIBurger_HostAddress = http://localhost:5065
+
+GET {{RebecaBarrezueta_APIBurger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
